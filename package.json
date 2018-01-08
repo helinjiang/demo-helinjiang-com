@@ -1,0 +1,23 @@
+{
+  "name": "demo-helinjiang-com",
+  "version": "0.1.1",
+  "description": "demo for helinjiang.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helinjiang/demo-helinjiang-com.git"
+  },
+  "keywords": [
+    "demo",
+    "helinjiang"
+  ],
+  "author": "helinjiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helinjiang/demo-helinjiang-com/issues"
+  },
+  "homepage": "https://github.com/helinjiang/demo-helinjiang-com#readme"
+}
