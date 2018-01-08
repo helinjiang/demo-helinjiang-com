@@ -4,6 +4,7 @@
   "description": "demo for helinjiang.com",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/helinjiang/demo-helinjiang-com/issues"
   },
-  "homepage": "https://github.com/helinjiang/demo-helinjiang-com#readme"
+  "homepage": "https://github.com/helinjiang/demo-helinjiang-com#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015-loose": "^8.0.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "glob": "^7.1.2",
+    "webpack": "^3.10.0"
+  }
 }
